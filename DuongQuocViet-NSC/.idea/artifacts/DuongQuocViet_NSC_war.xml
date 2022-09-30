@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="DuongQuocViet-NSC:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>DuongQuocViet-NSC</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="DuongQuocViet-NSC-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="DuongQuocViet-NSC:war exploded" />
+    </root>
+  </artifact>
+</component>
